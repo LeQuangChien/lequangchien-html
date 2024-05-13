@@ -1,0 +1,25 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: rgb(215, 198, 5);
+}
+
+
+/* Header **/
+header{
+ background-color: black;
+ padding: auto;
+ margin: auto;
+ color: aliceblue;
+ padding-top: 30px;
+ min-height: 70px;
+}
+
+
+footer{
+  background-color: orangered;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
